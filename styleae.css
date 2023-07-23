@@ -1,0 +1,92 @@
+*{
+    list-style:  none;
+    text-decoration: none;
+}
+
+header{
+    background-color: #745459;
+    width: 1400px;
+    margin: 0 auto;
+    height: 360px;
+}
+
+.list{
+    background-color: #251b17;
+    width: 1400px;
+    margin: 0 auto;
+    height: 90px;
+}
+
+.slogan{
+    background-color: #3b2c25;
+    width: 1000px;
+    margin: 0 auto;
+    height: 270px;
+}
+
+.list ul{
+    margin-right: 220px;
+}
+.list ul li{
+    float:  right;
+    line-height:110px;
+    padding: 0 10px;
+    margin-top: 67px;
+    margin-right: 34px;
+}
+
+.ulist a{
+    color: whitesmoke;
+    font-size: 14px;
+}
+
+.home{
+    background-image: url(https://scontent.fdad3-1.fna.fbcdn.net/v/t1.15752-9/361979003_253893824062607_8158882805973766147_n.png?stp=cp0_dst-png&_nc_cat=110&cb=99be929b-3346023f&ccb=1-7&_nc_sid=ae9488&_nc_ohc=euNM6ZGlTbEAX_Y5lW4&_nc_oc=AQlKptVZrWtu8djLfV_OeSe8hmm27rjak4A8UPr56jAWmV8hUNalBQPwxcffhSk0lwk&_nc_ht=scontent.fdad3-1.fna&oh=03_AdQst9P-nY3LYz2i64qJllQD4OPqX2NQa3iyBQujMkXq3Q&oe=64E2A1D3);
+    background-size: 100% 30%;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 38px;
+}
+.home a{
+    font-size: 11px;
+    margin-left: 6px;
+}
+
+.work{
+    background-image: url(https://scontent.fdad3-1.fna.fbcdn.net/v/t1.15752-9/362143613_1023012882202741_3403381137534900052_n.png?stp=cp0_dst-png&_nc_cat=110&cb=99be929b-3346023f&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Fdr5akt5TeoAX8Q-uFl&_nc_ht=scontent.fdad3-1.fna&oh=03_AdT6yplpGUPs6TZuYM8Y-v--0PNEfgU5n1u_CumLqDTr5g&oe=64E2AE05);
+    background-size: 100% 30%;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 35px;
+}
+.work a{
+    font-size: 11px;
+    margin-right: 5px;
+}
+
+.about{
+    background-image: url(https://scontent.fdad3-1.fna.fbcdn.net/v/t1.15752-9/361907097_624449906452349_8848484212839712110_n.png?stp=cp0_dst-png&_nc_cat=110&cb=99be929b-3346023f&ccb=1-7&_nc_sid=ae9488&_nc_ohc=zmYmymWj2HIAX8Tq8Zi&_nc_ht=scontent.fdad3-1.fna&oh=03_AdSJH8IDvb92pIcsg4pkY8Np0t-3FGT89g_gSZtIvdd-0w&oe=64E2B3B6);
+    background-size: 100% 30%;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 38px;
+}
+.about a{
+    font-size: 11px;
+    margin-left: 6px;
+}
+
+.contact{
+    background-image: url(https://scontent.fdad3-6.fna.fbcdn.net/v/t1.15752-9/362168145_293957673146800_2777317741612032276_n.png?stp=cp0_dst-png&_nc_cat=111&cb=99be929b-3346023f&ccb=1-7&_nc_sid=ae9488&_nc_ohc=aJ6iT_56xjwAX8KdpOn&_nc_ht=scontent.fdad3-6.fna&oh=03_AdT1cDNndhfp1xHLtVtWkYsUgto6pwo5-KapNU3C_xjO3Q&oe=64E2BA4E);
+    background-size: 100% 30%;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 38px;
+}
+.contact a{
+    font-size: 10px;
+}
+
+.slogan{
+    
+}
